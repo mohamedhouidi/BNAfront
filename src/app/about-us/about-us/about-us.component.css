@@ -1,0 +1,60 @@
+*{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  h1 {
+    text-align: center;
+    color: #0066cc;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .mission-section {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+  .mission-section h2 {
+    color: #0066cc;
+  }
+
+  .mission-section ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+
+  .commitment-section {
+    background-color: #e1f1e8;
+    padding: 20px;
+  }
+
+  .commitment-section h2 {
+    color: #009933;
+  }
+
+  .contact-info {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .contact-info p {
+    font-size: 14px;
+    color: #888;
+  }
+
+  .contact-info a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
