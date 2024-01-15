@@ -5,9 +5,9 @@ export const environment = {
   //apiVersion: '/v1',
   //serverUrl: 'https://mobile.mifos.io/fineract-provider/api/v1',
   selfServiceRoleId: 2,
-  baseApiUrl:'http://192.168.1.102:2000',
+  baseApiUrl:'http://20.213.232.93:2000',
   //apiProvider: '/fineract-provider/api',
   //apiVersion: '/v1',
   //serverUrl: 'https://mobile.mifos.io/fineract-provider/api/v1',
-  serverUrl: 'http://192.168.1.102:2000',
+  serverUrl: 'http://20.213.232.93:2000',
 };
